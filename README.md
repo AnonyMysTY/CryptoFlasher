@@ -12,17 +12,17 @@ After the visibility period expires, all simulated data is automatically cleared
 
 Transaction Simulation Limits
 
-Standard License:
+## Standard License:
 
-Up to 1,000 BTC per day
+- Up to 1,000 BTC per day
 
-Up to 150,000 USDT per day
+- Up to 150,000 USDT per day
 
-Premium License:
+## Premium License:
 
-Up to 15,000 BTC per day
+- Up to 15,000 BTC per day
 
-Up to 860,000 USDT per day
+- Up to 860,000 USDT per day
 
 A demonstration video is available upon request.
 
@@ -42,4 +42,4 @@ Simulated BTC and USDT display and transfer across supported test wallets
 
 For licensing information and access details, contact @CryptoFlashG on Telegram.
 
-Telegram: [@CryptoFlashG](https://t.me/CryptoFlashG)
+# Telegram: [@CryptoFlashG](https://t.me/CryptoFlashG)
