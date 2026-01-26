@@ -42,4 +42,4 @@ Simulated BTC and USDT display and transfer across supported test wallets
 
 For licensing information and access details, contact @CryptoFlashG on Telegram.
 
-Telegram: @CryptoFlashG
+Telegram: [@CryptoFlashG](https://t.me/CryptoFlashG)
